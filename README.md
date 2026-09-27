@@ -106,9 +106,9 @@ _Nothing yet — be the first! Send a PR._
 
 ## Community projects
 
-_Nothing yet — open a PR to add yours._ We highlight projects that are MIT/Apache-licensed, genuinely useful, and have at least basic docs
+_Nothing yet — open a PR to add yours._ We highlight projects that are MIT/Apache-licensed, genuinely useful, and have at least basic docs.
 
-- [APIClaw](https://apiclaw.biz)  Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM..
+- [APIClaw](https://apiclaw.biz)  Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM.
 
 ## Contributing
 
